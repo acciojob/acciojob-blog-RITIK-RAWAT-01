@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+h1{
+	text-align : center
+}
+#mg{
+	margin-bottom : 15px
+}
+.an{
+	margin-bottom : 20px
+}
+.img{
+	display : flex;
+	flex-direction : column;
+	line-height : 10px
+}
+.img img{
+	width : 200px;
+	margin-bottom : 15px
+}
